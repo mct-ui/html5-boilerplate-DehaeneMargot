@@ -130,10 +130,6 @@ a {
     transition: all .1s ease-in-out;
 }
 
-.odd {
-    background-color: whitesmoke;
-}
-
 
 a:visited,
 a:active {
@@ -144,6 +140,10 @@ a:hover,
 a:focus {
     color: crimson;
 
+}
+
+.odd {
+    background-color: whitesmoke;
 }
 
 table {
